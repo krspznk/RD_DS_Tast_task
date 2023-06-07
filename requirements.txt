@@ -1,0 +1,5 @@
+pandas
+matplotlib
+tenzorflow
+os
+numpy
